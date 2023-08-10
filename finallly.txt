@@ -1,0 +1,1 @@
+logout functionality to be make work by not navigating in to the login route
